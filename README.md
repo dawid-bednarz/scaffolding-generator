@@ -1,7 +1,7 @@
 scaffolding-generator
 =====================
 
-very useful genearator CRUD – Create Update Delete.
+very useful genearator CRUD – Create Read Update Delete.
 
 Install
 =====================
@@ -28,7 +28,7 @@ Allowed Commands
 How it works?
 =====================
 
-Module retrieves info on the table columns based on  collected info are created class with query(selct, insert, delete, update) in PDO handle PDO is always put to constructor class, check [default generated CRUD file](https://github.com/dawid-daweb/scaffolding-generator/example/User.php)  . You can change template generated file.
+Module retrieves info on the table columns based on  collected info are created class with query(selct, insert, delete, update) in PDO handle PDO is always put to constructor class, check [default generated CRUD file](https://github.com/dawid-daweb/scaffolding-generator/blob/master/example/User.php)  . You can change template generated file.
 
 Create CRUD
 =====================
