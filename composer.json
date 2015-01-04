@@ -1,0 +1,16 @@
+{
+    "name": "dawid-daweb/components",
+    "description": "crud generator for faster build application",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "daWeb",
+            "email": "dawid@daweb.vdl.pl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "daweb\\crud\\": "crud/"
+        }
+    }
+}
