@@ -11,6 +11,9 @@ Install
    "dawid-daweb/scaffolding-generator": "dev-master"
 }
 ~~~
+Require
+=====================
+PHP >= 5.4
 
 Use
 =====================
